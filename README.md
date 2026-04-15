@@ -1,15 +1,17 @@
 # Rust para terrícolas
 
-Repositorio con parte del código utilizado a lo largo del libro "Rust para terrícolas".
+Repositorio con parte del código utilizado a lo largo del libro "**Rust para terrícolas**".
 
 ![Rust para terrícolas - libro](images/rust_para_terricolas_github.png)
 
+&nbsp;
+&nbsp;
 
 ## Sobre el libro
 
-**Rust para terrícolas** recorre todos los conceptos que hacen único a **Rust**, paso a paso, con explicaciones claras, para mostrar el porqué de las cosas y desencadenar esos clics mentales necesarios para entender Rust y su filosofía.
+**Rust para terrícolas** recorre todos los conceptos que hacen único a **Rust**, paso a paso, con explicaciones claras, para mostrar el porqué de las cosas y hacer que se desencadenen esos clics mentales necesarios para entender Rust y su filosofía.
 
-El libro está organizado en 41 capítulos con más de 650 páginas de contenido útil.
+El libro está organizado en **41 capítulos** con **más de 650 páginas** de contenido útil.
 
 Algunos de los contenidos del libro:
 
@@ -91,7 +93,7 @@ Si detectas cualquier tipo de error, tanto en el contenido del libro como en los
 
 Puedes crear un *issue*, indicando el capítulo y el error (con información de contexto para que pueda localizar y revisar el error).
 
-O puedes enviar un email a *felipe[at]rustparaterricolas.com*
+O puedes enviar un email a *felipe\[at\]rustparaterricolas.com*
 
 
 ## ¿Dónde puedo comprar el libro?
