@@ -2,7 +2,9 @@
 
 Repositorio con parte del código utilizado a lo largo del libro "**Rust para terrícolas**".
 
-![Rust para terrícolas - libro](images/rust_para_terricolas_github.png)
+&nbsp;
+
+![Rust para terrícolas - libro](images/rust-para-terricolas-libro.png)
 
 &nbsp;
 &nbsp;
